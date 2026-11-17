@@ -15,7 +15,7 @@ tags:
 image: null
 ingredients:
   - "2 œufs voire 3 pour les gourmands"
-   "une cuillère à café d'huile"
+  -  "une cuillère à café d'huile"
   - "une noisette de beurre salé"
   - "1 pincée de sel"
   - "1 tour de moulin de poivre"
