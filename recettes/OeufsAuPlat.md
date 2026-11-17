@@ -15,7 +15,7 @@ tags:
 image: null
 ingredients:
   - "2 œufs voire 3 pour les gourmands"
-  - "une noisette de beurre"
+  - "une noisette de beurre salé"
   - "1 pincée de sel"
 conseils:
   - "Ne conserver pas vos œufs au frigo"
